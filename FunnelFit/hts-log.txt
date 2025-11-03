@@ -1,0 +1,73 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Oct 2025 14:48:44 at https://www.funnelfit.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.funnelfit.co.uk/ -O1 "\\Mac\Home\Downloads\Aave\FunnelFit" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:50:44	Error: 	"Method Not Allowed" (405) at link https://www.funnelfit.co.uk/xmlrpc.php (from https://www.funnelfit.co.uk/)
+14:52:10	Error: 	"Bad Request" (400) at link https://www.funnelfit.co.uk/wp-admin/admin-ajax.php (from https://www.funnelfit.co.uk/)
+14:52:10	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/revslider/revslider.php (from https://www.funnelfit.co.uk/)
+14:56:45	Error: 	"Bad Request" (400) at link https://www.funnelfit.co.uk/wp-admin/admin-ajax.php?action=rest-nonce (from https://www.funnelfit.co.uk/)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/fonts/slick.eot (from https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/slick-theme.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/fonts/slick.eot? (from https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/slick-theme.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/fonts/slick.woff (from https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/slick-theme.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/fonts/slick.ttf (from https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/slick-theme.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/fonts/slick.svg (from https://www.funnelfit.co.uk/wp-content/plugins/cl_testimonial/css/slick-theme.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/creote-addons/assets/css/owl.video.play.png (from https://www.funnelfit.co.uk/wp-content/plugins/creote-addons/assets/css/owl.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/themes/funnel/assets/webfonts/fa-v4compatibility.woff2 (from https://www.funnelfit.co.uk/wp-content/themes/funnel/assets/css/font-awesome.min.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/themes/funnel/assets/webfonts/fa-v4compatibility.ttf (from https://www.funnelfit.co.uk/wp-content/themes/funnel/assets/css/font-awesome.min.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/DataTables-1.10.18/images/sort_both.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/jquery.dataTables.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/DataTables-1.10.18/images/sort_asc.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/jquery.dataTables.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/DataTables-1.10.18/images/sort_desc.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/jquery.dataTables.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/DataTables-1.10.18/images/sort_asc_disabled.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/jquery.dataTables.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/DataTables-1.10.18/images/sort_desc_disabled.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/jquery.dataTables.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/images/nav-arrow.png (from https://www.funnelfit.co.uk/wp-content/plugins/yith-woocommerce-compare/assets/css/compare.css)
+14:56:49	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/project/essential-steps-to-writing-job-description/feed/ (from https://www.funnelfit.co.uk/project/essential-steps-to-writing-job-description/?_bg%3F_image_src%7D)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=510
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=510 to https://www.funnelfit.co.uk/project/essential-steps-to-writing-job-description/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/project/essential-steps-to-writing-job-description/revslider/revslider.php (from https://www.funnelfit.co.uk/project/essential-steps-to-writing-job-description/?_bg%3F_image_src%7D)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=4327
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=4327 to https://www.funnelfit.co.uk/about-us/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/revslider/revslider.php (from https://www.funnelfit.co.uk/about-us/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8581
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8581 to https://www.funnelfit.co.uk/about-us/our-journey/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-journey/revslider/revslider.php (from https://www.funnelfit.co.uk/about-us/our-journey/)
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-journey/${e?.bg?.image.src} (from https://www.funnelfit.co.uk/about-us/our-journey/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8657
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8657 to https://www.funnelfit.co.uk/about-us/our-values/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-values/revslider/revslider.php (from https://www.funnelfit.co.uk/about-us/our-values/)
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-values/${e?.bg?.image.src} (from https://www.funnelfit.co.uk/about-us/our-values/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8583
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8583 to https://www.funnelfit.co.uk/about-us/our-team/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-team/revslider/revslider.php (from https://www.funnelfit.co.uk/about-us/our-team/)
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/about-us/our-team/${e?.bg?.image.src} (from https://www.funnelfit.co.uk/about-us/our-team/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8562
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8562 to https://www.funnelfit.co.uk/careers/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/careers/revslider/revslider.php (from https://www.funnelfit.co.uk/careers/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=4392
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=4392 to https://www.funnelfit.co.uk/contact-us/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/contact-us/revslider/revslider.php (from https://www.funnelfit.co.uk/contact-us/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8489
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8489 to https://www.funnelfit.co.uk/services/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/services/revslider/revslider.php (from https://www.funnelfit.co.uk/services/)
+14:57:02	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8587
+14:57:02	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8587 to https://www.funnelfit.co.uk/packages/
+14:57:02	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/packages/revslider/revslider.php (from https://www.funnelfit.co.uk/packages/)
+14:57:22	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8682
+14:57:22	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8682 to https://www.funnelfit.co.uk/why-choose-our-services/
+14:57:22	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/why-choose-our-services/revslider/revslider.php (from https://www.funnelfit.co.uk/why-choose-our-services/)
+14:57:22	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8717
+14:57:22	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8717 to https://www.funnelfit.co.uk/resources/
+14:57:22	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/resources/revslider/revslider.php (from https://www.funnelfit.co.uk/resources/)
+14:57:25	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=5562
+14:57:25	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=5562 to https://www.funnelfit.co.uk/careers/cfo-expert-application/
+14:57:25	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/careers/cfo-expert-application/revslider/revslider.php (from https://www.funnelfit.co.uk/careers/cfo-expert-application/)
+14:57:25	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/careers/cfo-expert-application/${e?.bg?.image.src} (from https://www.funnelfit.co.uk/careers/cfo-expert-application/)
+14:57:26	Warning: 	Moved Permanently for https://www.funnelfit.co.uk/?p=8749
+14:57:26	Warning: 	File has moved from https://www.funnelfit.co.uk/?p=8749 to https://www.funnelfit.co.uk/service-request-booking/
+14:57:26	Error: 	"Not Found" (404) at link https://www.funnelfit.co.uk/service-request-booking/revslider/revslider.php (from https://www.funnelfit.co.uk/service-request-booking/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 42 seconds : 434 links scanned, 383 files written (36191341 bytes overall) [27716533 bytes received at 53096 bytes/sec], 16295194 bytes transferred using HTTP compression in 235 files, ratio 24%, 2.8 requests per connection
+(36 errors, 26 warnings, 0 messages)

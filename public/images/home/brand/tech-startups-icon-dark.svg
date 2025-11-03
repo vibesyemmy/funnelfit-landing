@@ -1,0 +1,17 @@
+<svg width="130" height="50" viewBox="0 0 130 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.8">
+    <!-- Rocket/Startup Icon -->
+    <path d="M20 35L25 15L30 35" stroke="white" stroke-width="1.5" fill="none"/>
+    <ellipse cx="25" cy="32" rx="3" ry="1.5" fill="white"/>
+    <circle cx="25" cy="18" r="2" fill="white"/>
+    
+    <!-- Code/Tech Elements -->
+    <text x="35" y="22" font-family="monospace" font-size="8" fill="white">&lt;/&gt;</text>
+    <rect x="38" y="26" width="8" height="6" fill="none" stroke="white" stroke-width="1"/>
+    <line x1="40" y1="28" x2="44" y2="28" stroke="white" stroke-width="1"/>
+    <line x1="40" y1="30" x2="44" y2="30" stroke="white" stroke-width="1"/>
+    
+    <!-- Text -->
+    <text x="52" y="28" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="white">TECH STARTUPS</text>
+  </g>
+</svg>
