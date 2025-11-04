@@ -7,7 +7,7 @@ import Solutions from "./components/home/solution";
 import WebResult from "./components/home/web-result";
 
 export const metadata: Metadata = {
-    title: "Home | Awake Agency",
+    title: "Home | FunnelFit",
 };
 
 
