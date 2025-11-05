@@ -50,7 +50,7 @@ const footerData = {
         name:"Contact Details",
         address: "Primewaterview Gardens 2, Ikate Elegushi, Lekki, Lagos - Nigeria",
         email: "info@funnelfit.co.uk",
-        phone: "+234 704 8000 942"
+        phone: "+234 806 284 5764"
     },
     copyright: "©2025 FunnelFit. All Rights Reserved"
 };

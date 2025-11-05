@@ -80,7 +80,7 @@ function CustomerStories() {
                     </h2>
                   </div>
                   <div className='flex flex-col gap-1'>
-                    <p className='font-medium'>Opeyemi Adefamakin</p>
+                    <p className='font-medium'>Opeoluwa Fayomi</p>
                     <p className='text-dark_black/60 dark:text-white/60 text-sm font-medium'>
                       CEO, Pullus Africa
                     </p>

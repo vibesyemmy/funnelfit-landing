@@ -16,7 +16,7 @@ function Solutions() {
   const serviceTiers = [
     {
       name: 'Essential Finance',
-      price: '₦50,000',
+      price: '₦55,000',
       period: '/month',
       description: 'Early-stage or small business needing organized books and compliance peace of mind',
       features: [
@@ -33,7 +33,7 @@ function Solutions() {
     },
     {
       name: 'Growth Finance',
-      price: '₦120,000',
+      price: '₦450,000',
       period: '/month',
       description: 'Growing SME or funded startup needing forecasting, discipline, and financial management',
       features: [
@@ -51,7 +51,7 @@ function Solutions() {
     },
     {
       name: 'Strategic Finance',
-      price: '₦250,000',
+      price: '₦1,500,000',
       period: '/month',
       description: 'For established businesses requiring comprehensive support (or project based at ₦100/hr)',
       features: [
@@ -112,6 +112,7 @@ function Solutions() {
                     <div className='flex flex-col gap-2'>
                       <h3 className='text-xl font-semibold'>{tier.name}</h3>
                       <div className='flex items-baseline gap-1'>
+                        <span className='text-sm text-dark_black/60 dark:text-white/60'>from</span>
                         <span className='text-3xl font-bold'>{tier.price}</span>
                         <span className='text-dark_black/60 dark:text-white/60'>{tier.period}</span>
                       </div>
